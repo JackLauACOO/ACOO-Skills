@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+._*
+
+# Zip archives (keep source folders only)
+*.zip
+
+# IDE
+.idea/
+.vscode/
