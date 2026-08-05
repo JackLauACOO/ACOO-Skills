@@ -54,29 +54,6 @@ trigger:                            # 触发词（SkillHub 必填）
 | **Claude Code**    | 放入 `.claude/instructions/` 目录                        |
 | **Cursor**         | 放入 `.cursor/rules/` 目录，或作为 `.cursorrules`            |
 
-## 上传到 WorkBuddy SkillHub
-
-> 让全球用户在 WorkBuddy 技能市场一键安装你的技能。
-
-**准备工作：**
-
-- 微信账号（用于扫码登录）
-- 已完成实名认证的 SkillHub 开发者账号
-
-**上传步骤：**
-
-1. 打开浏览器访问 **<https://skillhub.cn/>**
-2. 点击右上角「登录」，用微信扫码
-3. 如未实名认证，先完成实名认证
-4. 进入「个人中心」→ 点击「发布 Skill」
-5. 依次上传 5 个技能：
-   - 上传 `SKILL.md` 文件（每个技能文件夹内）
-   - 填写技能介绍（支持图文，可参考下方简介模板）
-   - 选择分类：**内容创作** 或 **content-creation**
-   - 提交审核
-6. 审核周期：**3-7 个工作日**
-7. 审核通过后，技能会出现在 SkillHub 市场，所有 WorkBuddy 用户可搜索安装
-
 **技能简介模板（复制到 SkillHub 介绍栏）：**
 
 > **ACOO-HotTopicResearch 阿酷热点选题**  
@@ -120,7 +97,7 @@ trigger:                            # 触发词（SkillHub 必填）
 
 ## 作者
 
-ACOO 阿酷内容大师 © 2026
+ACOO 阿酷内容大师 © 2026 Liuhai@163.com
 
 ---
 
